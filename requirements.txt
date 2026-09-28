@@ -1,0 +1,13 @@
+pymupdf
+python-pptx
+beautifulsoup4
+httpx
+openai
+pinecone
+python-dotenv
+fastapi
+uvicorn
+langchain-text-splitters
+tiktoken
+tenacity
+rank-bm25

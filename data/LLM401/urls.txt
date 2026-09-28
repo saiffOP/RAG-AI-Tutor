@@ -1,0 +1,5 @@
+https://developers.openai.com/api/docs/guides/embeddings
+https://developers.openai.com/api/docs/guides/retrieval
+https://developers.openai.com/api/docs/guides/tools-file-search
+https://developers.openai.com/api/docs/concepts
+https://developers.openai.com/learn/tools

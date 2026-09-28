@@ -1,0 +1,4 @@
+https://www.deeplearning.ai/resources/natural-language-processing
+https://huggingface.co/docs/course/chapter2/4
+https://huggingface.co/docs/course/chapter1/5
+https://huggingface.co/docs/course/chapter1/3
